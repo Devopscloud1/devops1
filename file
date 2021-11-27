@@ -1,4 +1,14 @@
-#!/bin/bash
+:wq
+exit
+
+#!/bin/basexit
+h
+echo "Devops Class"
+:wq
+exit
+
+
+h
 echo "Devops Class"
 :wq
 exit
